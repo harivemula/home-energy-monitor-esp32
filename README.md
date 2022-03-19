@@ -6,6 +6,8 @@
 
 For Flashing, When Arduino IDE showing compiling, Press EN + Boot and Release EN When showing 'Connecting...', once it starts flashing you may release 'Boot' as well.
 
+![PCB Design](images/home-energy-monitor-pcb-layers-3.png "PCB Layout")
+
 ![Home Energy Monitor](images/home-energy-monitor.jpg?raw=true "Home Energy Monitor")
 
 ![Controller Box](images/home-energy-monitor-controller.jpg "Controller box")
